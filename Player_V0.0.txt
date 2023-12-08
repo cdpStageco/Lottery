@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lottery_Players
+{
+    internal class Player
+    {
+        string name;
+        int id;
+
+        public Player(string name, int id)
+        {
+            this.name = name;
+            this.id = id;
+        }
+
+        public string GetName() => name;
+
+        public int GetId() => id;
+
+        public int score {  get; set; }
+        public int correctNrs { get; set; }
+
+        /*
+        public List<int> guessedNrs { get; set; } = new List<int>();
+
+        public int guessNumber
+        {
+            get
+            {
+                return guessedNrs.LastOrDefault();
+            }
+            set
+            {
+                guessedNrs.Add(value);
+            }
+        }
+        */
+        
+    }
+}

@@ -1,0 +1,7 @@
+C:\Users\carolien.depauw\Stageco Group Dropbox\Carolien De Pauw\Programmeren\C#\Opleiding\Lottery\obj\Debug\Lottery.csproj.AssemblyReference.cache
+C:\Users\carolien.depauw\Stageco Group Dropbox\Carolien De Pauw\Programmeren\C#\Opleiding\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\carolien.depauw\Stageco Group Dropbox\Carolien De Pauw\Programmeren\C#\Opleiding\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\carolien.depauw\Stageco Group Dropbox\Carolien De Pauw\Programmeren\C#\Opleiding\Lottery\bin\Debug\Lottery.exe
+C:\Users\carolien.depauw\Stageco Group Dropbox\Carolien De Pauw\Programmeren\C#\Opleiding\Lottery\bin\Debug\Lottery.pdb
+C:\Users\carolien.depauw\Stageco Group Dropbox\Carolien De Pauw\Programmeren\C#\Opleiding\Lottery\obj\Debug\Lottery.exe
+C:\Users\carolien.depauw\Stageco Group Dropbox\Carolien De Pauw\Programmeren\C#\Opleiding\Lottery\obj\Debug\Lottery.pdb
