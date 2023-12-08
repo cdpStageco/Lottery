@@ -52,6 +52,7 @@ namespace Lottery
             int playerIndex;
             int guessingNumber;
             string guess;
+            int a;
 
             // Show a list of all players
             Console.WriteLine("\n********************************\nThis are the players:");
